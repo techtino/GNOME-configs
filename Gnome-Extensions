@@ -1,0 +1,5 @@
+Currently used gnome extensions on my system:
+
+['appindicatorsupport@rgcjonas.gmail.com', 'sound-output-device-chooser@kgshank.net', 'no-overview@fthx', 'gnome-ui-tune@itstime.tech', 'remove-alt-tab-delay@daase.net', 'multi-monitors-add-on@spin83', 'launch-new-instance@gnome-shell-extensions.gcampax.github.com', 'native-window-placement@gnome-shell-extensions.gcampax.github.com', 'windowsNavigator@gnome-shell-extensions.gcampax.github.com', 'tweaks-system-menu@extensions.gnome-shell.fifi.org', 'Current_screen_only_for_Alternate_Tab@bourcereau.fr', 'noannoyance@daase.net', 'pop-shell@system76.com', 'alt-tab-move-mouse@buzztaiki.github.com']
+
+Copying the above into extensions.gnome.org will list all of them and I can simply turn them on.
