@@ -7,3 +7,6 @@ These are due to the extension I use for alt-tab mouse focusing only working on 
 
 # I want to focus the window that my mouse is currently on
 gsettings set org.gnome.desktop.wm.preferences focus-mode 'sloppy'
+
+# Set gtk theme (Saves the time of going into gnome tweaks, run after installing adw-gtk3-git only
+gsettings set org.gnome.desktop.interface gtk-theme 'adw-gtk3-dark'
