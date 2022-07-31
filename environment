@@ -1,0 +1,11 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+MOZ_ENABLE_WAYLAND=1
+QT_QPA_PLATFORMTHEME='gnome'
+QT_QPA_PLATFORM=wayland
+GBM_BACKEND=nvidia-drm
+__GLX_VENDOR_LIBRARY_NAME=nvidia
+export SDL_VIDEO_MINIMIZE_ON_FOCUS_LOSS=0
